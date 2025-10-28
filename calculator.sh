@@ -1,7 +1,9 @@
-<<<<<<< HEAD
 #!/bin/bash
 
 
 # Addition function
 
-x=1+2
+a= 1+2
+
+# substraction function
+
