@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #!/bin/bash
 
 
@@ -5,4 +6,8 @@
 
 x=1+2
 
+=======
+x=a+b
+y=b-c
+>>>>>>> origin/main
 
