@@ -9,6 +9,16 @@ a= 1+2
 
 
 #Division
+b= 9/3
+
+
 
 #Percentage
+
+
+
+# This is for MergeExample
+
+
+
 
